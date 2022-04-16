@@ -4,4 +4,6 @@ Finish to set the streambed thick and head stage.
 
 I eliminated dz from calculations, to introduce btom
 
+Check the ibound to say that left boundary is no flow, instead of constant head.
+
 Work on the cross section plo of 3 layers
