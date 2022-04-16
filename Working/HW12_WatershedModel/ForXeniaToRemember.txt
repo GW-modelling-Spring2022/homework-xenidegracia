@@ -1,0 +1,7 @@
+Finish calculated the streambed hydraul. condictivity by multiplying it for the Kh of the layer.
+
+Finish to set the streambed thick and head stage.
+
+I eliminated dz from calculations, to introduce btom
+
+Work on the cross section plo of 3 layers
